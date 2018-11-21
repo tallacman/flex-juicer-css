@@ -3,6 +3,8 @@
     padding: 0 !important;
 }
 // smallest screen padding
+
+// padding declarations are applied to column elements
 .padding-top {
     padding-top: $padding !important;
 }
@@ -49,6 +51,9 @@
 
 .no-padding-bottom {
     padding-bottom: 0 !important;
+}
+.no-padding{
+    padding: 0  !important ;
 }
 
 
