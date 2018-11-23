@@ -26,16 +26,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/mine-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/mine-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/css\/mine.css": {
 		"aP": 1,
 		"bl": 0,
@@ -56,6 +46,26 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/css\/scale.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/scale-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/type.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/type-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/hero.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -70,6 +80,16 @@
 		"oAP": "\/index.html",
 		"oF": 1
 		},
+	"\/js\/grid.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/grid-min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/less\/functions.less": {
 		"aP": 0,
 		"bl": 0,
@@ -81,6 +101,23 @@
 		"oA": 0,
 		"oAP": "\/less\/functions.css",
 		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/less\/type.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/type.css",
+		"oF": 2,
 		"oS": 0,
 		"rU": 0,
 		"sI": 0,
@@ -190,6 +227,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/sass\/_plumber.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/plumber.css",
+		"oF": 3,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sass\/_resets.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -200,6 +250,19 @@
 		"oA": 1,
 		"oAP": "\/sass\/_resets.css",
 		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/_type.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/typeo.css",
+		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
@@ -229,7 +292,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/sass\/stev.scss": {
+	"\/sass\/shevy\/_shevy.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -237,7 +300,46 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/stev.css",
+		"oAP": "\/css\/type.css",
+		"oF": 3,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/shevy\/shevy\/_functions.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/sass\/shevy\/shevy\/_functions.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/shevy\/shevy\/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/sass\/shevy\/shevy\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/shevy\/shevy\/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/sass\/shevy\/shevy\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -250,7 +352,7 @@
 "projectAttributes": {
 	"creationDate": 564519365,
 	"displayValue": "flex-juicer-css",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-girlfriend",
 	"iconImageWasSetByUser": 0
 	},
